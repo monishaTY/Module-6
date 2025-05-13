@@ -16,8 +16,6 @@ To write a Python program to create a `Counter` class that can increment the val
 7. **Call the `increment()` method** three times to increment the counter.
 8. **Call the `value()` method** and print the result to show the current counter value.
 9. **End the program.**
-
-
 ### PROGRAM
 
 ```
