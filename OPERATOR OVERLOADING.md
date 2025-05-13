@@ -25,7 +25,6 @@ To write a Python program to perform division of two complex numbers using the b
 
 ### PROGRAM
 
-```
 class Complex:
     def __init__(self, real, imag):
         self.real = real
@@ -46,10 +45,7 @@ result = obj1 + obj2
 
 # Printing the result
 print(result)
-```
-
 ### OUTPUT
-
 ![image](https://github.com/user-attachments/assets/e801cf24-33be-40de-a5ed-db9e0ffa449a)
 
 ### RESULT
